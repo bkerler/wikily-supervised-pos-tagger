@@ -1,0 +1,1 @@
+A bunch of simple part-of-speech taggers for multiple languages implemented by training Hidden Markov with Wiktionary.
